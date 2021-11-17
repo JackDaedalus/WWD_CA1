@@ -15,8 +15,13 @@ must be used.
 NOTE 3: - In deployment testing I found it necessary to run the Notebook at least once in order for the Plotly graphs to render.
 
 
-CA1 Contents;
+CA1 Contents; (explanations in the Notebook)
 
 - WorkingWithData_CA1_D21124026_CFinnegan.ipynb : This is the Jupyter Notebook with source code and rendered graphs
+
 - World_Happiness_Index_In_2015.csv 			: Original Kaggle Happiness File
-- 
+- humanfreedomind.csv
+- gdp-per-capita-vs-state-fragility.csv
+- cia_factbook.csv
+- political-regimes.csv
+- WWD-CA1 References.docx						: One page on references for datasets
